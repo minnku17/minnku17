@@ -7,8 +7,7 @@
 
 
 ### Glad to see you here! &nbsp; 
-
-I'm a graduate in software engineer 🎓 from Nguyen Tat Thanh University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓.
+I'm Hoa, a software engineer🎓 with a degree in Software Engineering from Nguyen Tat Thanh University🏛. I specialize in web development using JavaScript, particularly in ReactJS for building web applications and Node ExpressJS for developing RESTful APIs. I'm a dedicated learner and stay up-to-date with the latest industry trends. I'm a team player with a strong work ethic and enjoy collaborating with others to achieve our common goals.
 
 
 
@@ -57,22 +56,34 @@ Like My Work?
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=minnku17&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minnku17&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <table>
+  <tr>
+    <td>
+      <a href="https://github.com/minnku17/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api?username=minnku17&hide_border=true&show_icons=true&count_private=true" alt="Hoa's GitHub Stats" /> </a>
+    </td>
+    <td>
+      <a href="https://github.com/minnku17/github-readme-stats"> <img src="https://github-readme-stats-arasgungore.vercel.app/api/top-langs/?username=minnku17&hide_border=true&langs_count=8&layout=compact&count_private=true" alt="Top Languages" /> </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2 align="center">
+      <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=minnku17&hide_border=true&background=f6f8fa&currStreakLabel=000000&date_format=j%20M%5B%20Y%5D" alt="Hoa's GitHub Readme Streak Stats" /> </a>
+    </td>
+  </tr>
+</table>
 
-
-
-  <summary><b>☄️ Github Streaks</b></summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=minnku17&hide_border=true" />
 
 
 
 #
 
-<div align="center">
+## 📚 Repositories
 
-### Show some ❤️ by starring some of the repositories!
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=minnku17&repo=FrontendDentalStore)](https://github.com/minnku17/FrontendDentalStore)
+&nbsp; &nbsp;
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=minnku17&repo=BackendDentalStore)](https://github.com/minnku17/BackendDentalStore)
+&nbsp; &nbsp;
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=minnku17&repo=BackendNodeJsWebBooking)](https://github.com/minnku17/BackendNodeJsWebBooking)
+&nbsp; &nbsp;
+[![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=minnku17&repo=FrontendReactJsWebbooking)](https://github.com/minnku17/FrontendReactJsWebbooking)
 
-</div>
