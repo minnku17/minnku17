@@ -25,7 +25,7 @@ Like My Work?
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/minnku17).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
 - 📫 &nbsp; How to reach me: truongg.thanhhoaa@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+- 📝 &nbsp; Checkout my [Resume](https://drive.google.com/file/d/1Ye5vx_PaEa3HFDuFAVdGXnyHAeArwU-h/view?usp=sharing).
 
 ### My Absolute Favorites:
 
